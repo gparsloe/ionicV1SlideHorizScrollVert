@@ -1,22 +1,23 @@
-Ionic App Base
+Ionic v1 slides example 
 ==============
 
-A starting project for Ionic that optionally supports using custom SCSS.
+This is an Ionic v1 version of Andrei Sandu's codepen: Ionic Slides Example (slides horizontally and scrolls vertically) https://codepen.io/condor304/pen/zqjLML
 
 ## Using this project
 
-We recommend using the [Ionic CLI](https://github.com/ionic-team/ionic-cli) to create new Ionic projects that are based on this project but use a ready-made starter template.
+In the [Ionic CLI](https://github.com/ionic-team/ionic-cli) 
 
-For example, to start a new Ionic project with the default tabs interface, make sure the `ionic` utility is installed:
+Make sure the `ionic` utility is installed:
 
 ```bash
 $ npm install -g ionic cordova
 ```
 
-Then run: 
+Clone this repo. 
+To open project in browser:
 
 ```bash
-$ ionic start myProject tabs --type=ionic1 --cordova
+$ ionic serve
 ```
 
 More info on this can be found on the Ionic [Getting Started](https://ionicframework.com/getting-started) page and the [Ionic CLI](https://github.com/ionic-team/ionic-cli) repo.
