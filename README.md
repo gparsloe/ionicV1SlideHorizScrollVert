@@ -1,4 +1,4 @@
-Ionic App Base
+Ionic v1 version of Andrei Sandu's codepen: Ionic Slides Example (slides horizontally and scrolls vertically) https://codepen.io/condor304/pen/zqjLML
 ==============
 
 ## Using this project
