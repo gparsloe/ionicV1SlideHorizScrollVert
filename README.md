@@ -11,7 +11,8 @@ Make sure the `ionic` utility is installed:
 $ npm install -g ionic cordova
 ```
 
-Clone this repo and run (to open project in browser):
+Clone this repo. 
+To open project in browser:
 
 ```bash
 $ ionic serve
